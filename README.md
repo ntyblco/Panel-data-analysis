@@ -1,2 +1,1 @@
-# Panel-data-analysis
-Predicting the growth of nearshoring in Mexico
+# Predicting the growth of nearshoring in Mexico
